@@ -104,3 +104,5 @@ Thumbs.db
 proposal/
 report/
 datasets/
+src/outputs/*
+comparisons/*

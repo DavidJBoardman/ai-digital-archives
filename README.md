@@ -247,7 +247,7 @@ This project is released under the MIT License. See `LICENSE` file for details.
 If you use this toolkit in your research, please cite:
 
 ```
-Clean Digital Archives: LLM-Based Entity Recognition for Historical Documents
+Digital Archives: LLM-Based Entity Recognition for Historical Documents
 ARA Research Grant Application LUCAS (LLM Understanding and Classification of Archive Sources)
 2024
 ```
