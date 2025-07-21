@@ -100,6 +100,7 @@ Thumbs.db
 # Logs
 *.log 
 
-report/*
-datasets/*
-proposal/*
+# Project-specific exclusions
+proposal/
+report/
+datasets/
