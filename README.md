@@ -28,7 +28,7 @@ This toolkit enables researchers to perform custom Named Entity Recognition (NER
 ## Architecture
 
 ```
-lm_studio/
+src/
 ├── run_ner.py              # Main NER processing script
 ├── run_ner.sh              # Bash script for easy model execution
 ├── compare_results.py      # Model comparison and evaluation
@@ -84,10 +84,10 @@ lm_studio/
 2. **Run entity extraction:**
    ```bash
    # Using the shell script (recommended)
-   ./lm_studio/run_ner.sh "llama-3.3-70b-instruct" input_directory output_directory
+   ./src/run_ner.sh "llama-3.3-70b-instruct" input_directory output_directory
    
    # Or directly with Python
-   python lm_studio/run_ner.py "llama-3.3-70b-instruct" input_directory output_directory
+   python src/run_ner.py "llama-3.3-70b-instruct" input_directory output_directory
    ```
 
 3. **Results:** JSON files with extracted entities will be saved to the output directory.
@@ -125,7 +125,7 @@ Modify the `NER_TOOL` definition in `run_ner.py` to add or change entity categor
 # Process with multiple models
 for model in "llama-3.3-70b-instruct" "gemma-2-27b-it" "llama-4-scout-17b"
 do
-    ./lm_studio/run_ner.sh "$model" input_dir "outputs/experiment_1/$model"
+    ./src/run_ner.sh "$model" input_dir "outputs/experiment_1/$model"
 done
 ```
 
@@ -134,19 +134,19 @@ done
 ### Convert to Excel
 
 ```bash
-python lm_studio/json_to_excel.py lm_studio/outputs/experiment_1
+python src/json_to_excel.py src/outputs/experiment_1
 ```
 
 ### Compare Model Performance
 
 ```bash
-python lm_studio/compare_results.py --ground-truth datasets/labelled_data/ground_truth.xlsx --show-examples
+python src/compare_results.py --ground-truth datasets/labelled_data/ground_truth.xlsx --show-examples
 ```
 
-### Visualize Entities
+### Visualise Entities
 
 ```python
-from lm_studio.visualize_ner import highlight_entities
+from src.visualize_ner import highlight_entities
 import json
 
 # Load your results
@@ -161,7 +161,7 @@ highlighted_text = highlight_entities(original_text, results['entities'])
 
 Based on experimental results:
 
-- **Llama 3.3 70B**: Best overall performance, high accuracy
+- **Llama 3.3 70B**: High accuracy
 - **Gemma 2 27B**: Good balance of speed and accuracy
 - **Llama 4 Scout 17B**: Faster processing, suitable for large datasets
 
