@@ -1,0 +1,376 @@
+{
+  "entities": [
+    {
+      "text": "1552",
+      "label": "DATE"
+    },
+    {
+      "text": "1795",
+      "label": "DATE"
+    },
+    {
+      "text": "1724",
+      "label": "DATE"
+    },
+    {
+      "text": "Richard Watt",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Beauclerk",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Watt Family",
+      "label": "GROUP"
+    },
+    {
+      "text": "Speke Hall",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bishop Burton",
+      "label": "PLACE"
+    },
+    {
+      "text": "Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Standish",
+      "label": "PLACE"
+    },
+    {
+      "text": "Wigan",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Yorkshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "National Trust",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Frederick Leyland",
+      "label": "PERSON"
+    },
+    {
+      "text": "Adelaide",
+      "label": "PERSON"
+    },
+    {
+      "text": "Angus Graham",
+      "label": "PERSON"
+    },
+    {
+      "text": "John Rylands Library",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "National Archives UK",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Harrisburg PA State Archive",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Eton College Library",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "October 29, 1793",
+      "label": "DATE"
+    },
+    {
+      "text": "February 15, 1796",
+      "label": "DATE"
+    },
+    {
+      "text": "April 4, 1800",
+      "label": "DATE"
+    },
+    {
+      "text": "December 6, 1863",
+      "label": "DATE"
+    },
+    {
+      "text": "April 30, 1866",
+      "label": "DATE"
+    },
+    {
+      "text": "July 27, 1908",
+      "label": "DATE"
+    },
+    {
+      "text": "May 1, 1913",
+      "label": "DATE"
+    },
+    {
+      "text": "July 6, 1920",
+      "label": "DATE"
+    },
+    {
+      "text": "June 1, 1883",
+      "label": "DATE"
+    },
+    {
+      "text": "October 28, 1912",
+      "label": "DATE"
+    },
+    {
+      "text": "March 15, 1917",
+      "label": "DATE"
+    },
+    {
+      "text": "October 22, 1890",
+      "label": "DATE"
+    },
+    {
+      "text": "March 31, 1917",
+      "label": "DATE"
+    },
+    {
+      "text": "1863",
+      "label": "DATE"
+    },
+    {
+      "text": "1905",
+      "label": "DATE"
+    },
+    {
+      "text": "1954",
+      "label": "DATE"
+    },
+    {
+      "text": "Ernest R.B.H. Watt",
+      "label": "PERSON"
+    },
+    {
+      "text": "Col. Hudson",
+      "label": "PERSON"
+    },
+    {
+      "text": "M.J. Stewart",
+      "label": "PERSON"
+    },
+    {
+      "text": "J.H. Gair",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sarah Hewson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Ann Bland",
+      "label": "PERSON"
+    },
+    {
+      "text": "Jane Gardner",
+      "label": "PERSON"
+    },
+    {
+      "text": "David Evans",
+      "label": "PERSON"
+    },
+    {
+      "text": "A. Averills",
+      "label": "PERSON"
+    },
+    {
+      "text": "Richard Watt (1)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Richard Watt (2)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Richard Watt (5)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Watt",
+      "label": "GROUP"
+    },
+    {
+      "text": "Georges Plain Estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Green Castle Estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Green Park Estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Great Hatfield",
+      "label": "PLACE"
+    },
+    {
+      "text": "Great Cowden",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool City",
+      "label": "PLACE"
+    },
+    {
+      "text": "Lime Street",
+      "label": "PLACE"
+    },
+    {
+      "text": "Great Charlotte Street",
+      "label": "PLACE"
+    },
+    {
+      "text": "Westmoreland",
+      "label": "PLACE"
+    },
+    {
+      "text": "Middlesex",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cornwall",
+      "label": "PLACE"
+    },
+    {
+      "text": "Garston",
+      "label": "PLACE"
+    },
+    {
+      "text": "South Burton",
+      "label": "PLACE"
+    },
+    {
+      "text": "October 29, 1751",
+      "label": "DATE"
+    },
+    {
+      "text": "January 15, 1782",
+      "label": "DATE"
+    },
+    {
+      "text": "November 11, 1736",
+      "label": "DATE"
+    },
+    {
+      "text": "October 2, 1792",
+      "label": "DATE"
+    },
+    {
+      "text": "June 4, 1767",
+      "label": "DATE"
+    },
+    {
+      "text": "December 5, 1778",
+      "label": "DATE"
+    },
+    {
+      "text": "October 28, 1771",
+      "label": "DATE"
+    },
+    {
+      "text": "December 24, 1785",
+      "label": "DATE"
+    },
+    {
+      "text": "January 14, 1909",
+      "label": "DATE"
+    },
+    {
+      "text": "January 27, 1925",
+      "label": "DATE"
+    },
+    {
+      "text": "April 17, 1865",
+      "label": "DATE"
+    },
+    {
+      "text": "December 9, 1865",
+      "label": "DATE"
+    },
+    {
+      "text": "August 1917",
+      "label": "DATE"
+    },
+    {
+      "text": "1874",
+      "label": "DATE"
+    },
+    {
+      "text": "1907",
+      "label": "DATE"
+    },
+    {
+      "text": "1857",
+      "label": "DATE"
+    },
+    {
+      "text": "1892",
+      "label": "DATE"
+    },
+    {
+      "text": "1620",
+      "label": "DATE"
+    },
+    {
+      "text": "1744",
+      "label": "DATE"
+    },
+    {
+      "text": "1552",
+      "label": "DATE"
+    },
+    {
+      "text": "1772",
+      "label": "DATE"
+    },
+    {
+      "text": "1786",
+      "label": "DATE"
+    },
+    {
+      "text": "1803",
+      "label": "DATE"
+    },
+    {
+      "text": "1866",
+      "label": "DATE"
+    },
+    {
+      "text": "1868",
+      "label": "DATE"
+    },
+    {
+      "text": "Hackney carriage service",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "sugar plantations",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "shipping company",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "sale of slaves",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

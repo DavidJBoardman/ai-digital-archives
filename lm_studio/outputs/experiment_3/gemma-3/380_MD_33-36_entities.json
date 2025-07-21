@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "text": "Messrs. Case & Shuttleworth",
+      "label": "PERSON"
+    },
+    {
+      "text": "West India merchants",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "1754-69",
+      "label": "DATE"
+    },
+    {
+      "text": "Thomas Case",
+      "label": "PERSON"
+    },
+    {
+      "text": "T.C. Barker",
+      "label": "PERSON"
+    },
+    {
+      "text": "J.R. Harris",
+      "label": "PERSON"
+    },
+    {
+      "text": "A Merseyside Town in the Industrial Revolution",
+      "label": "SHIP"
+    },
+    {
+      "text": "1959",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Kingston",
+      "label": "PLACE"
+    },
+    {
+      "text": "Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Feb. 1754-Oct. 1757",
+      "label": "DATE"
+    },
+    {
+      "text": "Nov. 1757-Mar. 1761",
+      "label": "DATE"
+    },
+    {
+      "text": "Jan. 1764-Feb. 1768",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Jul. 1763-Mar. 1769",
+      "label": "DATE"
+    },
+    {
+      "text": "William Bond",
+      "label": "PERSON"
+    },
+    {
+      "text": "West Indies",
+      "label": "PLACE"
+    }
+  ]
+}

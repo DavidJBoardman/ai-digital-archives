@@ -1,0 +1,352 @@
+{
+  "entities": [
+    {
+      "text": "James Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles S. Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Margaret Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Patrick Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Anne Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Susan Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Ann[i]e Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Trail family",
+      "label": "GROUP"
+    },
+    {
+      "text": "Rainy family",
+      "label": "GROUP"
+    },
+    {
+      "text": "Sam. Sandbach",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Stewart Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Eliza Sandbach",
+      "label": "PERSON"
+    },
+    {
+      "text": "Gilbert Robertson",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Rainy",
+      "label": "PERSON"
+    },
+    {
+      "text": "Harry Rainy",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Stewart Traill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Christian Traill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Edward Cardwell",
+      "label": "PERSON"
+    },
+    {
+      "text": "Scotland",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Edinburgh",
+      "label": "PLACE"
+    },
+    {
+      "text": "Hebrides",
+      "label": "PLACE"
+    },
+    {
+      "text": "Fairlie",
+      "label": "PLACE"
+    },
+    {
+      "text": "Ayrshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "Garston",
+      "label": "PLACE"
+    },
+    {
+      "text": "Aigburth",
+      "label": "PLACE"
+    },
+    {
+      "text": "Beechwood Cemetery",
+      "label": "PLACE"
+    },
+    {
+      "text": "Rasay",
+      "label": "PLACE"
+    },
+    {
+      "text": "Inverness",
+      "label": "PLACE"
+    },
+    {
+      "text": "America",
+      "label": "PLACE"
+    },
+    {
+      "text": "Doria",
+      "label": "SHIP"
+    },
+    {
+      "text": "1729-1812",
+      "label": "DATE"
+    },
+    {
+      "text": "177-1828",
+      "label": "DATE"
+    },
+    {
+      "text": "1774-1844",
+      "label": "DATE"
+    },
+    {
+      "text": "1763-1795",
+      "label": "DATE"
+    },
+    {
+      "text": "1786",
+      "label": "DATE"
+    },
+    {
+      "text": "1787",
+      "label": "DATE"
+    },
+    {
+      "text": "1789",
+      "label": "DATE"
+    },
+    {
+      "text": "1803",
+      "label": "DATE"
+    },
+    {
+      "text": "1805-1806",
+      "label": "DATE"
+    },
+    {
+      "text": "1808",
+      "label": "DATE"
+    },
+    {
+      "text": "1814",
+      "label": "DATE"
+    },
+    {
+      "text": "1818-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "1819",
+      "label": "DATE"
+    },
+    {
+      "text": "1820",
+      "label": "DATE"
+    },
+    {
+      "text": "1825-1833",
+      "label": "DATE"
+    },
+    {
+      "text": "1826-1843",
+      "label": "DATE"
+    },
+    {
+      "text": "1827",
+      "label": "DATE"
+    },
+    {
+      "text": "1828",
+      "label": "DATE"
+    },
+    {
+      "text": "1829",
+      "label": "DATE"
+    },
+    {
+      "text": "1836",
+      "label": "DATE"
+    },
+    {
+      "text": "1837",
+      "label": "DATE"
+    },
+    {
+      "text": "1838-1839",
+      "label": "DATE"
+    },
+    {
+      "text": "1840",
+      "label": "DATE"
+    },
+    {
+      "text": "1842",
+      "label": "DATE"
+    },
+    {
+      "text": "1843",
+      "label": "DATE"
+    },
+    {
+      "text": "1844-1845",
+      "label": "DATE"
+    },
+    {
+      "text": "1846",
+      "label": "DATE"
+    },
+    {
+      "text": "1847",
+      "label": "DATE"
+    },
+    {
+      "text": "1850-1879",
+      "label": "DATE"
+    },
+    {
+      "text": "1851",
+      "label": "DATE"
+    },
+    {
+      "text": "1852",
+      "label": "DATE"
+    },
+    {
+      "text": "1853",
+      "label": "DATE"
+    },
+    {
+      "text": "1856-1857",
+      "label": "DATE"
+    },
+    {
+      "text": "1857",
+      "label": "DATE"
+    },
+    {
+      "text": "1859",
+      "label": "DATE"
+    },
+    {
+      "text": "1860",
+      "label": "DATE"
+    },
+    {
+      "text": "1862",
+      "label": "DATE"
+    },
+    {
+      "text": "1863",
+      "label": "DATE"
+    },
+    {
+      "text": "1866-1867",
+      "label": "DATE"
+    },
+    {
+      "text": "1868-1869",
+      "label": "DATE"
+    },
+    {
+      "text": "1870",
+      "label": "DATE"
+    },
+    {
+      "text": "1871",
+      "label": "DATE"
+    },
+    {
+      "text": "1872",
+      "label": "DATE"
+    },
+    {
+      "text": "1874",
+      "label": "DATE"
+    },
+    {
+      "text": "1875",
+      "label": "DATE"
+    },
+    {
+      "text": "1879",
+      "label": "DATE"
+    },
+    {
+      "text": "1881-1884",
+      "label": "DATE"
+    },
+    {
+      "text": "1885",
+      "label": "DATE"
+    },
+    {
+      "text": "1886",
+      "label": "DATE"
+    },
+    {
+      "text": "1892",
+      "label": "DATE"
+    },
+    {
+      "text": "1899",
+      "label": "DATE"
+    },
+    {
+      "text": "1907",
+      "label": "DATE"
+    },
+    {
+      "text": "1908",
+      "label": "DATE"
+    },
+    {
+      "text": "1910",
+      "label": "DATE"
+    },
+    {
+      "text": "1928",
+      "label": "DATE"
+    }
+  ]
+}

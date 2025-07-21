@@ -1,0 +1,96 @@
+{
+  "entities": [
+    {
+      "text": "1413-1970",
+      "label": "DATE"
+    },
+    {
+      "text": "1750-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "352 MD",
+      "label": "GROUP"
+    },
+    {
+      "text": "African Company of Merchants ",
+      "label": "GROUP"
+    },
+    {
+      "text": "Great Britain",
+      "label": "PLACE"
+    },
+    {
+      "text": "An Act for extending and improving trade to Africa",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "The African Company of Merchants",
+      "label": "GROUP"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bristol",
+      "label": "PLACE"
+    },
+    {
+      "text": "Sallee",
+      "label": "PLACE"
+    },
+    {
+      "text": "South Barbary",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape of Good Hope",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape Blanco",
+      "label": "PLACE"
+    },
+    {
+      "text": "Chamberlain of the City of London",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Merchant's Hall, Bristol ",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Town Clerk of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Africa",
+      "label": "PLACE"
+    },
+    {
+      "text": "July 3rd",
+      "label": "DATE"
+    },
+    {
+      "text": "40/-",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "\u00a3100",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "African trade",
+      "label": "RELATIONSHIPS"
+    }
+  ]
+}

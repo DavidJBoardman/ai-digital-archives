@@ -1,0 +1,60 @@
+{
+  "entities": [
+    {
+      "text": "1750-1760",
+      "label": "DATE"
+    },
+    {
+      "text": "John Newton",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr David Jennings",
+      "label": "PERSON"
+    },
+    {
+      "text": "Duke of Argyle",
+      "label": "SHIP"
+    },
+    {
+      "text": "African",
+      "label": "SHIP"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Olney, Bucks",
+      "label": "PLACE"
+    },
+    {
+      "text": "Stepney",
+      "label": "PLACE"
+    },
+    {
+      "text": "Gordon Square, London, WC 1",
+      "label": "PLACE"
+    },
+    {
+      "text": "Joseph Manesty",
+      "label": "PERSON"
+    },
+    {
+      "text": "Rev. David Jennings",
+      "label": "PERSON"
+    },
+    {
+      "text": "Congregational minister",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "SLAVE-TRADER",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

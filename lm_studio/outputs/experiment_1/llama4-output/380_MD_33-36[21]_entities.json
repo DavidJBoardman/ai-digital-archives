@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "text": "1754-69",
+      "label": "DATE"
+    },
+    {
+      "text": "Thomas Case",
+      "label": "PERSON"
+    },
+    {
+      "text": "Case & Shuttleworth",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "West India merchants",
+      "label": "GROUP"
+    },
+    {
+      "text": "T.C. Barker and J.R. Harris",
+      "label": "PERSON"
+    },
+    {
+      "text": "A Merseyside Town in the Industrial Revolution",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "1959 edn.",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Kingston, Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Feb. 1754-Oct. 1757",
+      "label": "DATE"
+    },
+    {
+      "text": "Nov. 1757-Mar. 1761",
+      "label": "DATE"
+    },
+    {
+      "text": "Jan. 1764-Nov. 1767",
+      "label": "DATE"
+    },
+    {
+      "text": "Jul. 1763-Mar. 1769",
+      "label": "DATE"
+    },
+    {
+      "text": "KF 100",
+      "label": "GROUP"
+    },
+    {
+      "text": "Messrs.",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "KF 101",
+      "label": "GROUP"
+    },
+    {
+      "text": "KF 102",
+      "label": "GROUP"
+    },
+    {
+      "text": "William Bond",
+      "label": "PERSON"
+    }
+  ]
+}

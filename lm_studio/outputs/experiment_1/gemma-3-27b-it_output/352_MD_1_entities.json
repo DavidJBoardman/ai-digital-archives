@@ -1,0 +1,84 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "1413-1970",
+      "label": "DATE"
+    },
+    {
+      "text": "African Company of Merchants",
+      "label": "ORG"
+    },
+    {
+      "text": "1750-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "Great Britain",
+      "label": "PLACE"
+    },
+    {
+      "text": "Africa",
+      "label": "PLACE"
+    },
+    {
+      "text": "South Barbary",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape of Good Hope",
+      "label": "PLACE"
+    },
+    {
+      "text": "Company of Merchants trading to Africa",
+      "label": "ORG"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bristol",
+      "label": "PLACE"
+    },
+    {
+      "text": "3rd July",
+      "label": "DATE"
+    },
+    {
+      "text": "1750-1778",
+      "label": "DATE"
+    },
+    {
+      "text": "1779-1809",
+      "label": "DATE"
+    },
+    {
+      "text": "negroes",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Africa",
+      "label": "PLACE"
+    },
+    {
+      "text": "1821",
+      "label": "DATE"
+    },
+    {
+      "text": "3 Jul 1801",
+      "label": "DATE"
+    },
+    {
+      "text": "4 Jul 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "11 Aug 1808",
+      "label": "DATE"
+    }
+  ]
+}

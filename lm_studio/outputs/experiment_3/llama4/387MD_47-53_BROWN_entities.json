@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "text": "23 February, 1942",
+      "label": "DATE"
+    },
+    {
+      "text": "9 September, 1943",
+      "label": "DATE"
+    },
+    {
+      "text": "1809-1876",
+      "label": "DATE"
+    },
+    {
+      "text": "1 February 1844- 26 October 1846",
+      "label": "DATE"
+    },
+    {
+      "text": "1843- 1852",
+      "label": "DATE"
+    },
+    {
+      "text": "May 1846",
+      "label": "DATE"
+    },
+    {
+      "text": "24 August 1848",
+      "label": "DATE"
+    },
+    {
+      "text": "12th May 1854",
+      "label": "DATE"
+    },
+    {
+      "text": "31 July 1848",
+      "label": "DATE"
+    },
+    {
+      "text": "28 March 1876",
+      "label": "DATE"
+    },
+    {
+      "text": "1 February 1898",
+      "label": "DATE"
+    },
+    {
+      "text": "1809 - 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "10 September 1845",
+      "label": "DATE"
+    },
+    {
+      "text": "5 December 1851",
+      "label": "DATE"
+    },
+    {
+      "text": "James Brown",
+      "label": "PERSON"
+    },
+    {
+      "text": "K.A. Brown, Esq.",
+      "label": "PERSON"
+    },
+    {
+      "text": "John Croft, Esq.",
+      "label": "PERSON"
+    },
+    {
+      "text": "W.C. Redfield",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Pryde",
+      "label": "PERSON"
+    },
+    {
+      "text": "Duncan Robertson",
+      "label": "PERSON"
+    },
+    {
+      "text": "J. Lowther",
+      "label": "PERSON"
+    },
+    {
+      "text": "Francis Alexander Clint",
+      "label": "PERSON"
+    },
+    {
+      "text": "William Lowden",
+      "label": "PERSON"
+    },
+    {
+      "text": "David Williams",
+      "label": "PERSON"
+    },
+    {
+      "text": "Jane Morrow",
+      "label": "PERSON"
+    },
+    {
+      "text": "James Brown of Blundellsands",
+      "label": "PERSON"
+    },
+    {
+      "text": "The Brown family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Brown",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Liverpool Directory",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Ships papers and accounts",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Ship Gossypium",
+      "label": "SHIP"
+    },
+    {
+      "text": "Ship Alexander Grant",
+      "label": "SHIP"
+    },
+    {
+      "text": "The National Trust",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Speke Court",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "British Archaeological Association",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Garston Chapel",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Royal Family",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Watt family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "slaves",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "eminent persons",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "negroes",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "annually elected committee of nine persons which met in London.",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "nine man Committee",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Committee of the Company [of the African Company of Merchants trading from Liverpool]",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "any negro or native of the country",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "the natives",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Bootle",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "New Orleans",
+      "label": "PLACE"
+    },
+    {
+      "text": "Quebec",
+      "label": "PLACE"
+    },
+    {
+      "text": "Lima",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bombay",
+      "label": "PLACE"
+    },
+    {
+      "text": "Blundellsands",
+      "label": "PLACE"
+    },
+    {
+      "text": "Belfast",
+      "label": "PLACE"
+    },
+    {
+      "text": "St. John's, New Brunswick",
+      "label": "PLACE"
+    },
+    {
+      "text": "Hugeroto",
+      "label": "PLACE"
+    },
+    {
+      "text": "La Guayra",
+      "label": "PLACE"
+    },
+    {
+      "text": "Belize",
+      "label": "PLACE"
+    },
+    {
+      "text": "Local Collection",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Stock Book",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Gossypium",
+      "label": "SHIP"
+    },
+    {
+      "text": "Alexander Grant",
+      "label": "SHIP"
+    },
+    {
+      "text": "Ellen",
+      "label": "SHIP"
+    },
+    {
+      "text": "Candida",
+      "label": "SHIP"
+    },
+    {
+      "text": "Duke of Leinster",
+      "label": "SHIP"
+    },
+    {
+      "text": "Kentville",
+      "label": "SHIP"
+    },
+    {
+      "text": "Caledonia",
+      "label": "SHIP"
+    },
+    {
+      "text": "Rosalinda",
+      "label": "SHIP"
+    }
+  ]
+}

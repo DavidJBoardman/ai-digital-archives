@@ -1,0 +1,68 @@
+{
+  "entities": [
+    {
+      "text": "1754-69",
+      "label": "DATE"
+    },
+    {
+      "text": "Thomas Case",
+      "label": "PERSON"
+    },
+    {
+      "text": "T.C. Barker",
+      "label": "PERSON"
+    },
+    {
+      "text": "J.R. Harris",
+      "label": "PERSON"
+    },
+    {
+      "text": "Case & Shuttleworth",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Case & Shuttleworth",
+      "label": "GROUP"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "West Indies",
+      "label": "PLACE"
+    },
+    {
+      "text": "Kingston, Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Messrs. Case & Shuttleworth",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Messrs. Case & Shuttleworth",
+      "label": "GROUP"
+    },
+    {
+      "text": "February 1754-October 1757",
+      "label": "DATE"
+    },
+    {
+      "text": "November 1757-March 1761",
+      "label": "DATE"
+    },
+    {
+      "text": "January 1764-November 1767",
+      "label": "DATE"
+    },
+    {
+      "text": "July 1763-March 1769",
+      "label": "DATE"
+    },
+    {
+      "text": "William Bond",
+      "label": "PERSON"
+    }
+  ]
+}

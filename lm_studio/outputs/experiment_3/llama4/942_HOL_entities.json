@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "John Holt",
+      "label": "PERSON"
+    },
+    {
+      "text": "Matthew Gregson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Okill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Corporation",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Walton",
+      "label": "PLACE"
+    },
+    {
+      "text": "Report on the Records and Documents relating to the City of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Library",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Samuel Huggins",
+      "label": "PERSON"
+    },
+    {
+      "text": "Huggins Index",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Liverpool Botanic Garden",
+      "label": "PLACE"
+    },
+    {
+      "text": "Rules and Orders of the Commissioners of Watch and Lamps, Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Henry Wostenholm",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charity School",
+      "label": "GROUPINGS"
+    }
+  ]
+}

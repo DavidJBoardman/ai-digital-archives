@@ -1,0 +1,1688 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "William Roscoe",
+      "label": "PERSON"
+    },
+    {
+      "text": "1753-1831",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool Botanic Garden",
+      "label": "PLACE"
+    },
+    {
+      "text": "Agricultural and Horticultural Society of India",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Calcutta",
+      "label": "PLACE"
+    },
+    {
+      "text": "Dr Wallich",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool Royal Institution",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Board of Agriculture",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Chat Moss",
+      "label": "PLACE"
+    },
+    {
+      "text": "Society of Arts",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Adelphi, London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Aikin",
+      "label": "PERSON"
+    },
+    {
+      "text": "Edmund Aikin",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lucy Aikin",
+      "label": "PERSON"
+    },
+    {
+      "text": "John Aikin",
+      "label": "PERSON"
+    },
+    {
+      "text": "Stoke Newington",
+      "label": "PLACE"
+    },
+    {
+      "text": "Monthly Magazine",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "The Athenaeum",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Liverpool Docks",
+      "label": "PLACE"
+    },
+    {
+      "text": "Josiah Wedgwood",
+      "label": "PERSON"
+    },
+    {
+      "text": "Wedgwood Museum",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "University of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Rathbone papers",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "H.B.",
+      "label": "SHIP"
+    },
+    {
+      "text": "Wm Roscoe",
+      "label": "PERSON"
+    },
+    {
+      "text": "Carlisle",
+      "label": "PLACE"
+    },
+    {
+      "text": "Jun 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "A.S.",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Dr Roger Baldwin",
+      "label": "PERSON"
+    },
+    {
+      "text": "13 Aug 1799",
+      "label": "DATE"
+    },
+    {
+      "text": "Aldingham near Ulverston",
+      "label": "PLACE"
+    },
+    {
+      "text": "Speke Court",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "The National Trust",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Royal Family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "W. Blackwood",
+      "label": "PERSON"
+    },
+    {
+      "text": "C. Blagden",
+      "label": "PERSON"
+    },
+    {
+      "text": "Francis Blaikie",
+      "label": "PERSON"
+    },
+    {
+      "text": "John Shepherd",
+      "label": "PERSON"
+    },
+    {
+      "text": "Rajah Mitr Jeet Singh",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Blundell",
+      "label": "PERSON"
+    },
+    {
+      "text": "Ince",
+      "label": "PLACE"
+    },
+    {
+      "text": "Henry Blundell",
+      "label": "PERSON"
+    },
+    {
+      "text": "Formby",
+      "label": "PLACE"
+    },
+    {
+      "text": "James Boardman",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "J. Bohn",
+      "label": "PERSON"
+    },
+    {
+      "text": "17 Henrietta Street, London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Chas. Bonaparte",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr R. Vaux",
+      "label": "PERSON"
+    },
+    {
+      "text": "Philadelphia",
+      "label": "PLACE"
+    },
+    {
+      "text": "Joseph A. Bonucci",
+      "label": "PERSON"
+    },
+    {
+      "text": "Upper Berkeley Place, Bristol",
+      "label": "PLACE"
+    },
+    {
+      "text": "Rev Mr Boog",
+      "label": "PERSON"
+    },
+    {
+      "text": "Paisley",
+      "label": "PLACE"
+    },
+    {
+      "text": "Sir John Sinclair",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Booth",
+      "label": "PERSON"
+    },
+    {
+      "text": "The Committee",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "J. A. Borron",
+      "label": "PERSON"
+    },
+    {
+      "text": "Count Luigi Bossi",
+      "label": "PERSON"
+    },
+    {
+      "text": "Milan",
+      "label": "PLACE"
+    },
+    {
+      "text": "Dr. Bostock",
+      "label": "PERSON"
+    },
+    {
+      "text": "The Royal Institution",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Date",
+      "label": "DATE"
+    },
+    {
+      "text": "19 Feb 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "24 Sep [1808]",
+      "label": "DATE"
+    },
+    {
+      "text": "03 Dec 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "10 Jun 1809",
+      "label": "DATE"
+    },
+    {
+      "text": "20 Feb 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "21 May 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "29 Jul 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "01 Sep 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "20 May 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "22 May 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Oct 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "n.d [1811]",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Nov 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "13 Dec 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "[1812]",
+      "label": "DATE"
+    },
+    {
+      "text": "24 Jun [1812]",
+      "label": "DATE"
+    },
+    {
+      "text": "04 Jul 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "10 Jul 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "22 Jul 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "28 Aug 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "25 Sep 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "12 Jan 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "11 Mar 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Feb 1831",
+      "label": "DATE"
+    },
+    {
+      "text": "210 Feb 1831",
+      "label": "DATE"
+    },
+    {
+      "text": "15 Apr 1831",
+      "label": "DATE"
+    },
+    {
+      "text": "26 Feb 1838",
+      "label": "DATE"
+    },
+    {
+      "text": "25 Feb 1838",
+      "label": "DATE"
+    },
+    {
+      "text": "29 Jun 1794",
+      "label": "DATE"
+    },
+    {
+      "text": "26 May 1796",
+      "label": "DATE"
+    },
+    {
+      "text": "09 Oct 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "28 Aug [1823]",
+      "label": "DATE"
+    },
+    {
+      "text": "03 Nov 1823",
+      "label": "DATE"
+    },
+    {
+      "text": "20 June 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "30 Nov 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Jan 1800",
+      "label": "DATE"
+    },
+    {
+      "text": "24 Feb 1807",
+      "label": "DATE"
+    },
+    {
+      "text": "09 Mar 1807",
+      "label": "DATE"
+    },
+    {
+      "text": "21 Jun 1807",
+      "label": "DATE"
+    },
+    {
+      "text": "15 Jul 1807",
+      "label": "DATE"
+    },
+    {
+      "text": "24 Jan 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "22 Feb 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "27 Feb 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "13 Jun 1809",
+      "label": "DATE"
+    },
+    {
+      "text": "24 Aug 1819",
+      "label": "DATE"
+    },
+    {
+      "text": "03 Dec 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "22 Dec 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Aug 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "16 Apr 1817",
+      "label": "DATE"
+    },
+    {
+      "text": "19 May 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "14 Dec.1819",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Feb 1824",
+      "label": "DATE"
+    },
+    {
+      "text": "07 Jul 1817",
+      "label": "DATE"
+    },
+    {
+      "text": "27 Jun 1782",
+      "label": "DATE"
+    },
+    {
+      "text": "18 Aug 1783",
+      "label": "DATE"
+    },
+    {
+      "text": "30 Sep 1783",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Nov 1783",
+      "label": "DATE"
+    },
+    {
+      "text": "30 Dec 1783",
+      "label": "DATE"
+    },
+    {
+      "text": "28 Mar1784",
+      "label": "DATE"
+    },
+    {
+      "text": "17 May 1784",
+      "label": "DATE"
+    },
+    {
+      "text": "16 Jul 1784",
+      "label": "DATE"
+    },
+    {
+      "text": "28 Nov 1784",
+      "label": "DATE"
+    },
+    {
+      "text": "20 Dec 1784",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Apr 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "26 Mar 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "06 Sep 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Nov 1805",
+      "label": "DATE"
+    },
+    {
+      "text": "24 Jul 1813",
+      "label": "DATE"
+    },
+    {
+      "text": "10 Apr 1824",
+      "label": "DATE"
+    },
+    {
+      "text": "13 May 1824",
+      "label": "DATE"
+    },
+    {
+      "text": "07 Sep 1824",
+      "label": "DATE"
+    },
+    {
+      "text": "William Clarke",
+      "label": "SHIP"
+    },
+    {
+      "text": "John Clarke",
+      "label": "SHIP"
+    },
+    {
+      "text": "Wm Roscoe",
+      "label": "SHIP"
+    },
+    {
+      "text": "San Lucar",
+      "label": "PLACE"
+    },
+    {
+      "text": "Monte de Selina",
+      "label": "PLACE"
+    },
+    {
+      "text": "Marseilles",
+      "label": "PLACE"
+    },
+    {
+      "text": "Seville",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cadiz",
+      "label": "PLACE"
+    },
+    {
+      "text": "Portugal",
+      "label": "PLACE"
+    },
+    {
+      "text": "Madrid",
+      "label": "PLACE"
+    },
+    {
+      "text": "Barcelona",
+      "label": "PLACE"
+    },
+    {
+      "text": "France",
+      "label": "PLACE"
+    },
+    {
+      "text": "Italy",
+      "label": "PLACE"
+    },
+    {
+      "text": "Rome",
+      "label": "PLACE"
+    },
+    {
+      "text": "Naples",
+      "label": "PLACE"
+    },
+    {
+      "text": "Leghorn",
+      "label": "PLACE"
+    },
+    {
+      "text": "Fiesole",
+      "label": "PLACE"
+    },
+    {
+      "text": "Florence",
+      "label": "PLACE"
+    },
+    {
+      "text": "Switzerland",
+      "label": "PLACE"
+    },
+    {
+      "text": "Geneva",
+      "label": "PLACE"
+    },
+    {
+      "text": "Venice",
+      "label": "PLACE"
+    },
+    {
+      "text": "Brighthelmston",
+      "label": "PLACE"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "30 Jan 1784",
+      "label": "DATE"
+    },
+    {
+      "text": "28 Mar 1784",
+      "label": "DATE"
+    },
+    {
+      "text": "27 Mar 1785",
+      "label": "DATE"
+    },
+    {
+      "text": "04 Jun 1785",
+      "label": "DATE"
+    },
+    {
+      "text": "20 Jul 1785",
+      "label": "DATE"
+    },
+    {
+      "text": "10 Sep 1785",
+      "label": "DATE"
+    },
+    {
+      "text": "12 Oct 1785",
+      "label": "DATE"
+    },
+    {
+      "text": "06 Aug 1788",
+      "label": "DATE"
+    },
+    {
+      "text": "17 Oct 1788",
+      "label": "DATE"
+    },
+    {
+      "text": "26 Apr 1790",
+      "label": "DATE"
+    },
+    {
+      "text": "25 Jul 1805",
+      "label": "DATE"
+    },
+    {
+      "text": "01 Mar 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "Thomas Clarkson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Isaac Hadmen",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Thomson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Nicholas Waterhouse",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sir Richard Clayton",
+      "label": "PERSON"
+    },
+    {
+      "text": "James Clegg",
+      "label": "PERSON"
+    },
+    {
+      "text": "William Cockin",
+      "label": "PERSON"
+    },
+    {
+      "text": "Admiral Sir Isaac Coffin",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lady A. Coke",
+      "label": "PERSON"
+    },
+    {
+      "text": "Eliza W. Coke",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Wm. Coke",
+      "label": "PERSON"
+    },
+    {
+      "text": "Viscountess Dow",
+      "label": "PERSON"
+    },
+    {
+      "text": "John Jones",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Rathbone",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mrs. Rathbone",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Reynolds",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Houlbrooke",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thetford",
+      "label": "PLACE"
+    },
+    {
+      "text": "Brighton",
+      "label": "PLACE"
+    },
+    {
+      "text": "America",
+      "label": "PLACE"
+    },
+    {
+      "text": "Prescot",
+      "label": "PLACE"
+    },
+    {
+      "text": "The Freemen of the Borough of Liverpool",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Watt family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "slaves",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "negroes",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "committee of nine persons which met in London",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "annually elected committee of nine persons which met in London",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "the National Trust",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Speke Court",
+      "label": "PLACE"
+    },
+    {
+      "text": "British Archaeological Association",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Garston Chapel",
+      "label": "PLACE"
+    },
+    {
+      "text": "Philadelphia Society for alleviating the miseries of public prisons",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Dr. Brandreth",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lord Holland",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Shepherd",
+      "label": "PERSON"
+    },
+    {
+      "text": "Keith John",
+      "label": "PERSON"
+    },
+    {
+      "text": "David John",
+      "label": "PERSON"
+    },
+    {
+      "text": "Brougham",
+      "label": "PERSON"
+    },
+    {
+      "text": "Canning",
+      "label": "PERSON"
+    },
+    {
+      "text": "General Tarleton",
+      "label": "PERSON"
+    },
+    {
+      "text": "Tennant",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr. Smith",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Roscoe",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thos. Creevey",
+      "label": "PERSON"
+    },
+    {
+      "text": "Wm. Roscoe",
+      "label": "PERSON"
+    },
+    {
+      "text": "R.H. Cromek",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr. Currie",
+      "label": "PERSON"
+    },
+    {
+      "text": "Robert Burns",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr. Aikin",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr. Moore",
+      "label": "PERSON"
+    },
+    {
+      "text": "Wm. Smyth",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles",
+      "label": "PERSON"
+    },
+    {
+      "text": "James",
+      "label": "PERSON"
+    },
+    {
+      "text": "Fuseli",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr. Tattershall",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lord Orford",
+      "label": "PERSON"
+    },
+    {
+      "text": "July 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "24 July 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "25 Aug 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "27 Aug 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "29 Aug 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "14 Sep 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "17 Sep 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Sep 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "01 Oct 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "07 Oct 1812",
+      "label": "DATE"
+    },
+    {
+      "text": "21 Jan 1813",
+      "label": "DATE"
+    },
+    {
+      "text": "26 Apr 1813",
+      "label": "DATE"
+    },
+    {
+      "text": "30 Apr 1813",
+      "label": "DATE"
+    },
+    {
+      "text": "20 Aug 1813",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Jan 1821",
+      "label": "DATE"
+    },
+    {
+      "text": "01 Mar 1819",
+      "label": "DATE"
+    },
+    {
+      "text": "02 Jul 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "29 Jan 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Mar 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "4 May 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "12 Jul 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "14 Jul 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "20 Jul 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "19 Feb 1809",
+      "label": "DATE"
+    },
+    {
+      "text": "01 Jan 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Jun 1824",
+      "label": "DATE"
+    },
+    {
+      "text": "04 Jun 1824",
+      "label": "DATE"
+    },
+    {
+      "text": "1796",
+      "label": "DATE"
+    },
+    {
+      "text": "14 Aug 1796",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Sep 1796",
+      "label": "DATE"
+    },
+    {
+      "text": "20 Oct 1796",
+      "label": "DATE"
+    },
+    {
+      "text": "1797",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Feb 1797",
+      "label": "DATE"
+    },
+    {
+      "text": "08 Mar 1797",
+      "label": "DATE"
+    },
+    {
+      "text": "25 Mar 1797",
+      "label": "DATE"
+    },
+    {
+      "text": "30 May 1797",
+      "label": "DATE"
+    },
+    {
+      "text": "30 Dec 1797",
+      "label": "DATE"
+    },
+    {
+      "text": "15 Jan 1798",
+      "label": "DATE"
+    },
+    {
+      "text": "28 Apr 1798",
+      "label": "DATE"
+    },
+    {
+      "text": "27 Aug 1798",
+      "label": "DATE"
+    },
+    {
+      "text": "13 May 1817",
+      "label": "DATE"
+    },
+    {
+      "text": "31 May & 02 Jun 1817",
+      "label": "DATE"
+    },
+    {
+      "text": "19 Jul, 18 Aug 1817",
+      "label": "DATE"
+    },
+    {
+      "text": "6,25 Oct :1,8 Dec 1817",
+      "label": "DATE"
+    },
+    {
+      "text": "30 Dec 1817: 17 Jan 1818",
+      "label": "DATE"
+    },
+    {
+      "text": "25 Jul , 9 Sep, 9 Oct 1818",
+      "label": "DATE"
+    },
+    {
+      "text": "4, 9 Jul 1819",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Jul 1819",
+      "label": "DATE"
+    },
+    {
+      "text": "2,13 Sep 1819",
+      "label": "DATE"
+    },
+    {
+      "text": "N.D.",
+      "label": "DATE"
+    },
+    {
+      "text": "People",
+      "label": "PERSON"
+    },
+    {
+      "text": "Institutions",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Ships",
+      "label": "SHIP"
+    },
+    {
+      "text": "Groupings",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Places",
+      "label": "PLACE"
+    },
+    {
+      "text": "Relationship_type",
+      "label": "RELATIONSHIP_TYPE"
+    },
+    {
+      "text": "Relationship_entity_1",
+      "label": "RELATIONSHIP_ENTITY_1"
+    },
+    {
+      "text": "Relationship_entity_2",
+      "label": "RELATIONSHIP_ENTITY_2"
+    },
+    {
+      "text": "John Douglas",
+      "label": "SHIP"
+    },
+    {
+      "text": "Wm.Roscoe",
+      "label": "PERSON"
+    },
+    {
+      "text": "Marquis of Douglas and Clydesale",
+      "label": "PERSON"
+    },
+    {
+      "text": "Glasgow Committee",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Alex McGrigor &Co.",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Cavalier G.Mecherini",
+      "label": "PERSON"
+    },
+    {
+      "text": "Monsignore Fabroni",
+      "label": "PERSON"
+    },
+    {
+      "text": "Pisa",
+      "label": "PLACE"
+    },
+    {
+      "text": "Allerton",
+      "label": "PLACE"
+    },
+    {
+      "text": "Grosvenor Place, London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Hamilton Place",
+      "label": "PLACE"
+    },
+    {
+      "text": "11 Jan and later 1823",
+      "label": "DATE"
+    },
+    {
+      "text": "Edinburgh Review",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Observations of Penal Jurisprudence",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Letter",
+      "label": "SHIP"
+    },
+    {
+      "text": "A.S. statement from D.Edmonds, ship carpenter, Sierra Leone",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "7 July 1811",
+      "label": "DATE"
+    },
+    {
+      "text": "Gerona",
+      "label": "SHIP"
+    },
+    {
+      "text": "H.M.S.Myrtle",
+      "label": "SHIP"
+    },
+    {
+      "text": "20 Jul 1796",
+      "label": "DATE"
+    },
+    {
+      "text": "Rev.Mr.Edwards,Birmingham",
+      "label": "PERSON"
+    },
+    {
+      "text": "Coleridge",
+      "label": "PERSON"
+    },
+    {
+      "text": "The Watchman",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "28 Aug 1796 Liverpool",
+      "label": "DATE"
+    },
+    {
+      "text": "Derby",
+      "label": "PLACE"
+    },
+    {
+      "text": "Burns",
+      "label": "PERSON"
+    },
+    {
+      "text": "Scotch",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "6 Dec 1806 Ruthin",
+      "label": "DATE"
+    },
+    {
+      "text": "Edward Edwards, bookseller, Ruthin",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Cicero and Solomon",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "1 Mar 1815 Liverpool",
+      "label": "DATE"
+    },
+    {
+      "text": "Friends Tavern , Sparling Street",
+      "label": "PLACE"
+    },
+    {
+      "text": "31 Jan 1789 London",
+      "label": "DATE"
+    },
+    {
+      "text": "J.Edwards",
+      "label": "PERSON"
+    },
+    {
+      "text": "12 Mar 1789 London",
+      "label": "DATE"
+    },
+    {
+      "text": "30-14-6",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "12 Nov 1789 London",
+      "label": "DATE"
+    },
+    {
+      "text": "32-4-0",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "17 Jan 1790 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Pinelli's sale",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Feb. 2nd",
+      "label": "DATE"
+    },
+    {
+      "text": "17 Feb 1790 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Magnif.Lorenzo",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Paris",
+      "label": "PLACE"
+    },
+    {
+      "text": "21 Sept. 1790 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Marquis de Paris of Paris",
+      "label": "PERSON"
+    },
+    {
+      "text": "Life of Lorenzo de Medici",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "7 Dec 1790 London",
+      "label": "DATE"
+    },
+    {
+      "text": "40",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "16 Mar 1791 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Mr.Stanley",
+      "label": "PERSON"
+    },
+    {
+      "text": "26 Dec 1793 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool merchants",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Spain",
+      "label": "PLACE"
+    },
+    {
+      "text": "German merchants",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "26 Jan 1794 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Mr.Gregson of Liverpool",
+      "label": "PERSON"
+    },
+    {
+      "text": "16 Feb 1794 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Hortus Romanus",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "20 Feb 1794 London",
+      "label": "DATE"
+    },
+    {
+      "text": "250 copies on royal paper, and one on vellum",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "7 Mar 1794 London",
+      "label": "DATE"
+    },
+    {
+      "text": "26 May 1794 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Decameron",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Vasari",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Princess Royal",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mrs.Damer",
+      "label": "PERSON"
+    },
+    {
+      "text": "29 Nov 1794 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Appendix",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Volume",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "18 Jan 1795 Pall Mall",
+      "label": "DATE"
+    },
+    {
+      "text": "Dr.Ford",
+      "label": "PERSON"
+    },
+    {
+      "text": "24 Mar 1795 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Vol.1 of Lorenzo",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Miss Berrys",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Lady Synott",
+      "label": "PERSON"
+    },
+    {
+      "text": "15 Apr 1795 Pal Mall",
+      "label": "DATE"
+    },
+    {
+      "text": "Copy of Lorenzo to the Miss Berrys",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "9 May 1795 Pall Mall",
+      "label": "DATE"
+    },
+    {
+      "text": "Various books",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "18 Sep 1795 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Box of those returned by Roscoe",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "21 Nov 1795 London",
+      "label": "DATE"
+    },
+    {
+      "text": "600 impressions of the beautiful engraving of Lorenzo",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "4 Feb 1796 Pall Mall",
+      "label": "DATE"
+    },
+    {
+      "text": "Publication of Lorenzo",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Messrs.Cadell & Davies",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "7 Apr 1796 Buxton",
+      "label": "DATE"
+    },
+    {
+      "text": "Terms offered by Messrs.Cadell & Davies",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "25 Apr 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Mr.H.Englefield",
+      "label": "PERSON"
+    },
+    {
+      "text": "Criticisms on Lorenzo",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "3 Mar 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Delay in receiving Roscoe's book",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "12 Mar 1796 Pall Mall",
+      "label": "DATE"
+    },
+    {
+      "text": "Binding of books",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "1 Apr 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Advertisement of books",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "9 Jun 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Account of sale of Lorenzo",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Statement of account of books sold to Wm.Roscoe",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "5 Jul 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Mr Edwards' absence",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "25 Aug 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Request for copies of Lorenzo",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "26 Oct 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Sale of book",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "12 Dec 1796 London",
+      "label": "DATE"
+    },
+    {
+      "text": "Sets of Lorenzo",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "10 May 1797 ",
+      "label": "DATE"
+    },
+    {
+      "text": "Fuseli and Johnson",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "27 Dec 1810 The Manor House, Harrow",
+      "label": "DATE"
+    },
+    {
+      "text": "Jas.Edwards",
+      "label": "PERSON"
+    },
+    {
+      "text": "Harrow",
+      "label": "PLACE"
+    },
+    {
+      "text": "Vicar",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Mr.Markland of Liverpool",
+      "label": "PERSON"
+    },
+    {
+      "text": "8 Sep 1815 Harrow",
+      "label": "DATE"
+    },
+    {
+      "text": "Medallion of Lor.de'Medici",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "6 Aug 1821 Derby",
+      "label": "DATE"
+    },
+    {
+      "text": "W.C.Edwards(engraver)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Bungay, Suffolk",
+      "label": "PLACE"
+    },
+    {
+      "text": "12 Oct 1816 Bungay, Suffolk",
+      "label": "DATE"
+    },
+    {
+      "text": "Engravings for Roscoe",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "13 Mar 1823 ",
+      "label": "DATE"
+    },
+    {
+      "text": "Receipt signed W.C.Edwards",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "8/8/0 from Dawson Turner on behalf of T.W.Coke and Wm.Roscoe for a pastoral subject from Virgil",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "26 Jan 1824 ",
+      "label": "DATE"
+    },
+    {
+      "text": "Receipt signed W.C.Edwards for 6/6/0 from Wm.Roscoe and Dawson Turner for engraving for Holkham Catalogue",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "19 Apr 1824 ",
+      "label": "DATE"
+    },
+    {
+      "text": "Receipt signed W.C.Edwards for 8/8/0 from Dawson Turner on behalf of T.W.Coke and Wm.Roscoe for a plate with four subjects on it",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "15 May 1824 ",
+      "label": "DATE"
+    },
+    {
+      "text": "Receipt signed W.C.Edwards for 7/7/0 from Dawson Turner on behalf of T.W.Coke and Wm.Roscoe for engraving plate of Crucifixion",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "16 Nov 1824 ",
+      "label": "DATE"
+    },
+    {
+      "text": "Receipt signed W.C.Edwards for 17/6/6 from Dawson Turner,Esq. on behalf of Wm.Roscoe and T.W.Coke,for engravings",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "21 Jul 1825 ",
+      "label": "DATE"
+    },
+    {
+      "text": "Receipt signed W.C.Edwards for 70/7/0 from Dawson Turner on behalf of Wm.Roscoe and T.W.Coke",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Lord Leicester,Sir Edward Coke ,Lady Ann Coke ,T.W.Coke.",
+      "label": "GROUPINGS"
+    }
+  ]
+}

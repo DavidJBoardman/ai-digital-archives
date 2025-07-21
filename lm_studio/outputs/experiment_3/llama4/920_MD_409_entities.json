@@ -1,0 +1,48 @@
+{
+  "entities": [
+    {
+      "text": "John Newton",
+      "label": "PERSON"
+    },
+    {
+      "text": "David Jennings",
+      "label": "PERSON"
+    },
+    {
+      "text": "1750-1760",
+      "label": "DATE"
+    },
+    {
+      "text": "Duke of Argyle",
+      "label": "SHIP"
+    },
+    {
+      "text": "African",
+      "label": "SHIP"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Joseph Manesty",
+      "label": "PERSON"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Olney, Bucks",
+      "label": "PLACE"
+    },
+    {
+      "text": "Stepney",
+      "label": "PLACE"
+    },
+    {
+      "text": "Dr. William's library",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

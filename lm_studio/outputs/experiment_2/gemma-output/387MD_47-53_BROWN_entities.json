@@ -1,0 +1,268 @@
+{
+  "entities": [
+    {
+      "text": "1843-1898",
+      "label": "DATE"
+    },
+    {
+      "text": "23 February, 1942",
+      "label": "DATE"
+    },
+    {
+      "text": "9 September, 1943",
+      "label": "DATE"
+    },
+    {
+      "text": "1809-1876",
+      "label": "DATE"
+    },
+    {
+      "text": "December 1851 and 1854",
+      "label": "DATE"
+    },
+    {
+      "text": "c.1850",
+      "label": "DATE"
+    },
+    {
+      "text": "c.1875",
+      "label": "DATE"
+    },
+    {
+      "text": "1 February 1844-26 October 1846",
+      "label": "DATE"
+    },
+    {
+      "text": "1843-1852",
+      "label": "DATE"
+    },
+    {
+      "text": "May 1846",
+      "label": "DATE"
+    },
+    {
+      "text": "24 August 1848",
+      "label": "DATE"
+    },
+    {
+      "text": "1845-51",
+      "label": "DATE"
+    },
+    {
+      "text": "12th May 1854",
+      "label": "DATE"
+    },
+    {
+      "text": "31 July 1848",
+      "label": "DATE"
+    },
+    {
+      "text": "1849 - 52",
+      "label": "DATE"
+    },
+    {
+      "text": "1851 - 52",
+      "label": "DATE"
+    },
+    {
+      "text": "28 March 1876",
+      "label": "DATE"
+    },
+    {
+      "text": "1 February 1898",
+      "label": "DATE"
+    },
+    {
+      "text": "1809 - 1810",
+      "label": "DATE"
+    },
+    {
+      "text": "10 September 1845",
+      "label": "DATE"
+    },
+    {
+      "text": "Brown family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "James Brown",
+      "label": "PERSON"
+    },
+    {
+      "text": "K.A. Brown, Esq.",
+      "label": "PERSON"
+    },
+    {
+      "text": "John Croft, Esq.",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Pryde",
+      "label": "PERSON"
+    },
+    {
+      "text": "Duncan Robertson",
+      "label": "PERSON"
+    },
+    {
+      "text": "W.C. Redfield",
+      "label": "PERSON"
+    },
+    {
+      "text": "J. Lowther",
+      "label": "PERSON"
+    },
+    {
+      "text": "Francis Alexander Clint",
+      "label": "PERSON"
+    },
+    {
+      "text": "Captain James Brown",
+      "label": "PERSON"
+    },
+    {
+      "text": "William Lowden",
+      "label": "PERSON"
+    },
+    {
+      "text": "David Williams",
+      "label": "PERSON"
+    },
+    {
+      "text": "Jane Morrow",
+      "label": "PERSON"
+    },
+    {
+      "text": "Gossypium",
+      "label": "SHIP"
+    },
+    {
+      "text": "Alexander Grant",
+      "label": "SHIP"
+    },
+    {
+      "text": "Ellen",
+      "label": "SHIP"
+    },
+    {
+      "text": "Candida",
+      "label": "SHIP"
+    },
+    {
+      "text": "Duke of Leinster",
+      "label": "SHIP"
+    },
+    {
+      "text": "Kentville",
+      "label": "SHIP"
+    },
+    {
+      "text": "Caledonia",
+      "label": "SHIP"
+    },
+    {
+      "text": "Rosalinda",
+      "label": "SHIP"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "New Orleans",
+      "label": "PLACE"
+    },
+    {
+      "text": "Quebec",
+      "label": "PLACE"
+    },
+    {
+      "text": "St. John's, New Brunswick",
+      "label": "PLACE"
+    },
+    {
+      "text": "Lima",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bombay",
+      "label": "PLACE"
+    },
+    {
+      "text": "Hugeroto",
+      "label": "PLACE"
+    },
+    {
+      "text": "La Guayra",
+      "label": "PLACE"
+    },
+    {
+      "text": "Belize",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bootle",
+      "label": "PLACE"
+    },
+    {
+      "text": "Blundellsands",
+      "label": "PLACE"
+    },
+    {
+      "text": "Belfast",
+      "label": "PLACE"
+    },
+    {
+      "text": "Messrs. Clint & Leftwich",
+      "label": "PERSON"
+    },
+    {
+      "text": "Clint, Tregoning & Co.",
+      "label": "PERSON"
+    },
+    {
+      "text": "ship bread-bakers",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "cotton",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "salt",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "timber",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "guano",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "wheat",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "flour",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "copper",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Bill of Sale to James Brown",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "[from] New Orleans, Quebec, (on board the Gossypium) and Liverpool, to: John Croft, Esq.",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "trades [from]",
+      "label": "RELATIONSHIPS"
+    }
+  ]
+}

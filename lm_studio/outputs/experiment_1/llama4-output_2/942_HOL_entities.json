@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "John Holt",
+      "label": "PERSON"
+    },
+    {
+      "text": "Matthew Gregson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Okill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Walton",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool Corporation",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Samuel Huggins",
+      "label": "PERSON"
+    },
+    {
+      "text": "Henry Wostenholm",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "1743-1801",
+      "label": "DATE"
+    },
+    {
+      "text": "1749-1824",
+      "label": "DATE"
+    },
+    {
+      "text": "1848",
+      "label": "DATE"
+    },
+    {
+      "text": "1710-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "1722",
+      "label": "DATE"
+    },
+    {
+      "text": "13th cent.-19th cent.",
+      "label": "DATE"
+    },
+    {
+      "text": "1804",
+      "label": "DATE"
+    },
+    {
+      "text": "1827",
+      "label": "DATE"
+    },
+    {
+      "text": "1874",
+      "label": "DATE"
+    },
+    {
+      "text": "c.1921-24",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Commissioners of Watch and Lamps, Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

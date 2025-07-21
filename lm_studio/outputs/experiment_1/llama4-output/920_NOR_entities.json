@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "text": "1065 docs.",
+      "label": "PERSON"
+    },
+    {
+      "text": "1468",
+      "label": "DATE"
+    },
+    {
+      "text": "1709",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Apr. 1835",
+      "label": "DATE"
+    },
+    {
+      "text": "Winstanley",
+      "label": "PERSON"
+    },
+    {
+      "text": "Exchange, Manchester",
+      "label": "PLACE"
+    },
+    {
+      "text": "Corporation of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Town Clerk of Liverpool",
+      "label": "PERSON"
+    },
+    {
+      "text": "1918",
+      "label": "DATE"
+    },
+    {
+      "text": "R. Hyde Linaker, Esq.",
+      "label": "PERSON"
+    },
+    {
+      "text": "Frodsham, Cheshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "1925 - 1929",
+      "label": "DATE"
+    },
+    {
+      "text": "British Museum",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Add. Ch. 47380 - 53115 and Add. MSS 36901 - 36927",
+      "label": "PERSON"
+    },
+    {
+      "text": "University of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "314 deeds",
+      "label": "PERSON"
+    },
+    {
+      "text": "Aston and Talbot families of Aston Hall, Runcorn, Cheshire",
+      "label": "GROUP"
+    },
+    {
+      "text": "1903",
+      "label": "DATE"
+    },
+    {
+      "text": "T.N. Horton",
+      "label": "PERSON"
+    },
+    {
+      "text": "Transactions of the Historic Society of Lancashire and Cheshire, Vol. 49, 1897",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

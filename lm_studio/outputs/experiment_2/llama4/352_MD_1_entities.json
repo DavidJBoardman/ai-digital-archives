@@ -1,0 +1,92 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "African Company of Merchants",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "An Act for extending and improving trade to Africa, 1750",
+      "label": "DATE"
+    },
+    {
+      "text": "Great Britain",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bristol",
+      "label": "PLACE"
+    },
+    {
+      "text": "Sallee in South Barbary",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape of Good Hope",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape Blanco",
+      "label": "PLACE"
+    },
+    {
+      "text": "Chamberlain of the City of London",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Clerk of the Merchant's Hall, Bristol",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Town Clerk of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Committee of the Company",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "The African trade",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "trades to and from Africa",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "established under the terms of An Act for extending and improving trade to Africa, 1750.",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "managed by an annually elected committee of nine persons",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "member of the Company",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "governed by its regulations.",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "forbidden for the Company to trade in its corporate capacity",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "trades [from]",
+      "label": "RELATIONSHIPS"
+    }
+  ]
+}

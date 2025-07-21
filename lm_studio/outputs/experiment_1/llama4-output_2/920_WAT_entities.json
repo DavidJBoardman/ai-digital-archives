@@ -1,0 +1,96 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Watt Family Papers",
+      "label": "GROUP"
+    },
+    {
+      "text": "Speke Hall",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bishop Burton",
+      "label": "PLACE"
+    },
+    {
+      "text": "Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "1552-1954",
+      "label": "DATE"
+    },
+    {
+      "text": "Richard Watt (1)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Beauclerk",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Wigan",
+      "label": "PLACE"
+    },
+    {
+      "text": "Standish",
+      "label": "PLACE"
+    },
+    {
+      "text": "1724",
+      "label": "DATE"
+    },
+    {
+      "text": "Richard Watt (2)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Hackney carriage service in Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "sugar plantations",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "1770s",
+      "label": "DATE"
+    },
+    {
+      "text": "1783",
+      "label": "DATE"
+    },
+    {
+      "text": "Richard Watt (5)",
+      "label": "PERSON"
+    },
+    {
+      "text": "1865",
+      "label": "DATE"
+    },
+    {
+      "text": "Adelaide Watt",
+      "label": "PERSON"
+    },
+    {
+      "text": "Frederick Leyland, the shipping magnate and patron of the arts.",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "1943",
+      "label": "DATE"
+    },
+    {
+      "text": "National Trust",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

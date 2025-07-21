@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "John Holt",
+      "label": "PERSON"
+    },
+    {
+      "text": "Walton",
+      "label": "PLACE"
+    },
+    {
+      "text": "1743-1801",
+      "label": "DATE"
+    },
+    {
+      "text": "Matthew Gregson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "1749-1824",
+      "label": "DATE"
+    },
+    {
+      "text": "Charles Okill",
+      "label": "PERSON"
+    },
+    {
+      "text": "1848",
+      "label": "DATE"
+    },
+    {
+      "text": "Corporation",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "1881",
+      "label": "DATE"
+    },
+    {
+      "text": "Library",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "1937",
+      "label": "DATE"
+    },
+    {
+      "text": "Parliamentary Elections",
+      "label": "PLACE"
+    },
+    {
+      "text": "1710-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "Charles O'Kill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Commissioners of Watch and Lamps",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "1804",
+      "label": "DATE"
+    },
+    {
+      "text": "Report on County Rates",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "1827",
+      "label": "DATE"
+    },
+    {
+      "text": "Henry Wostenholm",
+      "label": "PERSON"
+    },
+    {
+      "text": "A.M.",
+      "label": "PERSON"
+    },
+    {
+      "text": "1722",
+      "label": "DATE"
+    },
+    {
+      "text": "Huggins Index",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Samuel Huggins",
+      "label": "PERSON"
+    },
+    {
+      "text": "1874",
+      "label": "DATE"
+    },
+    {
+      "text": "942 HOL 32",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "c.1921-24",
+      "label": "DATE"
+    },
+    {
+      "text": "13th cent.-19th cent.",
+      "label": "DATE"
+    },
+    {
+      "text": "Records relating to the Slave Trade",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

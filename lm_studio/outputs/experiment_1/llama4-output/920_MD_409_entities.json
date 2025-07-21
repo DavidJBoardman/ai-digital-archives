@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "text": "1750-1760",
+      "label": "DATE"
+    },
+    {
+      "text": "John Newton",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr David Jennings",
+      "label": "PERSON"
+    },
+    {
+      "text": "Duke of Argyle",
+      "label": "SHIP"
+    },
+    {
+      "text": "African",
+      "label": "SHIP"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Stepney",
+      "label": "PLACE"
+    },
+    {
+      "text": "Olney, Bucks",
+      "label": "PLACE"
+    },
+    {
+      "text": "Joseph Manesty",
+      "label": "PERSON"
+    },
+    {
+      "text": "Congregational minister",
+      "label": "GROUP"
+    },
+    {
+      "text": "Evangelical revival",
+      "label": "GROUP"
+    },
+    {
+      "text": "Slave-trade captain",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Surveyor of the Tides",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "trades to",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "was commanded by",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "gave up",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "from 1755 to 1760, was Surveyor of the Tides at Liverpool.",
+      "label": "RELATIONSHIPS"
+    }
+  ]
+}

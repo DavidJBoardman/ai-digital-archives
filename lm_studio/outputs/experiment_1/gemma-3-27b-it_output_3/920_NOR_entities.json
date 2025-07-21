@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "text": "1065",
+      "label": "DATE"
+    },
+    {
+      "text": "1468 - 1709",
+      "label": "DATE"
+    },
+    {
+      "text": "23 Apr. 1835",
+      "label": "DATE"
+    },
+    {
+      "text": "1918",
+      "label": "DATE"
+    },
+    {
+      "text": "1473/74 - 1676",
+      "label": "DATE"
+    },
+    {
+      "text": "1925 - 1929",
+      "label": "DATE"
+    },
+    {
+      "text": "1903",
+      "label": "DATE"
+    },
+    {
+      "text": "14th - 17th centuries",
+      "label": "DATE"
+    },
+    {
+      "text": "1897",
+      "label": "DATE"
+    },
+    {
+      "text": "1624",
+      "label": "DATE"
+    },
+    {
+      "text": "1628",
+      "label": "DATE"
+    },
+    {
+      "text": "1682 - 1709",
+      "label": "DATE"
+    },
+    {
+      "text": "1468 - 1702",
+      "label": "DATE"
+    },
+    {
+      "text": "1703 - 1708",
+      "label": "DATE"
+    },
+    {
+      "text": "Norris family",
+      "label": "GROUP"
+    },
+    {
+      "text": "Corporation of Liverpool",
+      "label": "ORG"
+    },
+    {
+      "text": "Winstanley",
+      "label": "PERSON"
+    },
+    {
+      "text": "Exchange, Manchester",
+      "label": "PLACE"
+    },
+    {
+      "text": "Town Clerk of Liverpool",
+      "label": "PERSON"
+    },
+    {
+      "text": "R. Hyde Linaker, Esq.",
+      "label": "PERSON"
+    },
+    {
+      "text": "Frodsham, Cheshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "British Museum",
+      "label": "ORG"
+    },
+    {
+      "text": "University of Liverpool",
+      "label": "ORG"
+    },
+    {
+      "text": "Aston and Talbot families",
+      "label": "GROUP"
+    },
+    {
+      "text": "Aston Hall, Runcorn, Cheshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "Lancashire",
+      "label": "PLACE"
+    },
+    {
+      "text": "North Wales",
+      "label": "PLACE"
+    },
+    {
+      "text": "Historic Society of Lancashire and Cheshire",
+      "label": "ORG"
+    },
+    {
+      "text": "T.N. Horton",
+      "label": "PERSON"
+    },
+    {
+      "text": "Fleming",
+      "label": "PERSON"
+    },
+    {
+      "text": "Rydal Hall, Grasmere, Westmorland",
+      "label": "PLACE"
+    },
+    {
+      "text": "Norris Papers",
+      "label": "ORG"
+    },
+    {
+      "text": "920 NOR 1/1 - 397",
+      "label": "ORG"
+    },
+    {
+      "text": "920 NOR 2/1 - 668",
+      "label": "ORG"
+    },
+    {
+      "text": "920 NOR 15/2, 16/1 - 5, 17/6 - 272",
+      "label": "ORG"
+    },
+    {
+      "text": "J.H. Lumby",
+      "label": "PERSON"
+    },
+    {
+      "text": "Record Society of Lancashire and Cheshire",
+      "label": "ORG"
+    },
+    {
+      "text": "Thomas Heywood",
+      "label": "PERSON"
+    },
+    {
+      "text": "Chetham Society",
+      "label": "ORG"
+    }
+  ]
+}

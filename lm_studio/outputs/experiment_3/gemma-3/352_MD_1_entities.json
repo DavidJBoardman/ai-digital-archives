@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "1413-1970",
+      "label": "DATE"
+    },
+    {
+      "text": "African Company of Merchants",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "1750-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "Great Britain",
+      "label": "PLACE"
+    },
+    {
+      "text": "Africa",
+      "label": "PLACE"
+    },
+    {
+      "text": "South Barbary",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape of Good Hope",
+      "label": "PLACE"
+    },
+    {
+      "text": "1750",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bristol",
+      "label": "PLACE"
+    },
+    {
+      "text": "3rd July",
+      "label": "DATE"
+    },
+    {
+      "text": "Chamberlain of the City of London",
+      "label": "PERSON"
+    },
+    {
+      "text": "Clerk of the Merchant's Hall, Bristol",
+      "label": "PERSON"
+    },
+    {
+      "text": "Town Clerk of Liverpool",
+      "label": "PERSON"
+    },
+    {
+      "text": "1821",
+      "label": "DATE"
+    },
+    {
+      "text": "3 Jul 1801",
+      "label": "DATE"
+    },
+    {
+      "text": "4 Jul 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "11 Aug 1808",
+      "label": "DATE"
+    },
+    {
+      "text": "1750-1779",
+      "label": "DATE"
+    },
+    {
+      "text": "1750-1778",
+      "label": "DATE"
+    },
+    {
+      "text": "1779-1809",
+      "label": "DATE"
+    }
+  ]
+}

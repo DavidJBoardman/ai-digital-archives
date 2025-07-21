@@ -1,0 +1,272 @@
+{
+  "entities": [
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Watt family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Speke Hall",
+      "label": "PLACE"
+    },
+    {
+      "text": "Richard Watt (1)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Beauclerk",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Standish near Wigan",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bishop Burton estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Yorkshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "Speke estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Frederick Leyland",
+      "label": "PERSON"
+    },
+    {
+      "text": "National Trust",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "British Archaeological Association",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Garston Chapel",
+      "label": "PLACE"
+    },
+    {
+      "text": "Royal Family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Adelaide Watt",
+      "label": "PERSON"
+    },
+    {
+      "text": "Richard Watt (2)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Richard Watt (5)",
+      "label": "PERSON"
+    },
+    {
+      "text": "Eton College Library",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "John Rylands Library",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Harrisburg PA State Archive",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Angus Graham",
+      "label": "PERSON"
+    },
+    {
+      "text": "Speke Court",
+      "label": "PLACE"
+    },
+    {
+      "text": "Green Castle Estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Middlesex, Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Green Park Estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cornwall, Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Georges Plain Estate",
+      "label": "PLACE"
+    },
+    {
+      "text": "Westmoreland, Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Great Hatfield",
+      "label": "PLACE"
+    },
+    {
+      "text": "Great Cowden",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool City",
+      "label": "PLACE"
+    },
+    {
+      "text": "Lime Street",
+      "label": "PLACE"
+    },
+    {
+      "text": "Great Charlotte Street",
+      "label": "PLACE"
+    },
+    {
+      "text": "Sarah Hewson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Ann Bland",
+      "label": "PERSON"
+    },
+    {
+      "text": "Jane Gardner",
+      "label": "PERSON"
+    },
+    {
+      "text": "David Evans",
+      "label": "PERSON"
+    },
+    {
+      "text": "Col. Hudson",
+      "label": "PERSON"
+    },
+    {
+      "text": "M.J. Stewart",
+      "label": "PERSON"
+    },
+    {
+      "text": "J.H. Gair",
+      "label": "PERSON"
+    },
+    {
+      "text": "Ernest R.B.H. Watt",
+      "label": "PERSON"
+    },
+    {
+      "text": "A. Averills",
+      "label": "PERSON"
+    },
+    {
+      "text": "1552-1954",
+      "label": "DATE"
+    },
+    {
+      "text": "1795",
+      "label": "DATE"
+    },
+    {
+      "text": "1724",
+      "label": "DATE"
+    },
+    {
+      "text": "1770s",
+      "label": "DATE"
+    },
+    {
+      "text": "1783",
+      "label": "DATE"
+    },
+    {
+      "text": "1856",
+      "label": "DATE"
+    },
+    {
+      "text": "1865",
+      "label": "DATE"
+    },
+    {
+      "text": "1943",
+      "label": "DATE"
+    },
+    {
+      "text": "1736-1925",
+      "label": "DATE"
+    },
+    {
+      "text": "1849",
+      "label": "DATE"
+    },
+    {
+      "text": "1777-1782",
+      "label": "DATE"
+    },
+    {
+      "text": "1751-1782",
+      "label": "DATE"
+    },
+    {
+      "text": "1736-1792",
+      "label": "DATE"
+    },
+    {
+      "text": "1767-1778",
+      "label": "DATE"
+    },
+    {
+      "text": "1771-1785",
+      "label": "DATE"
+    },
+    {
+      "text": "1909-1925",
+      "label": "DATE"
+    },
+    {
+      "text": "1874-1907",
+      "label": "DATE"
+    },
+    {
+      "text": "1857-1892",
+      "label": "DATE"
+    },
+    {
+      "text": "1620-1744",
+      "label": "DATE"
+    },
+    {
+      "text": "1552-1772",
+      "label": "DATE"
+    },
+    {
+      "text": "1786-1803",
+      "label": "DATE"
+    },
+    {
+      "text": "1793-1954",
+      "label": "DATE"
+    },
+    {
+      "text": "1866-1868",
+      "label": "DATE"
+    }
+  ]
+}

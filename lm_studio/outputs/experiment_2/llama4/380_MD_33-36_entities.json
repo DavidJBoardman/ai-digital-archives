@@ -1,0 +1,44 @@
+{
+  "entities": [
+    {
+      "text": "Messrs. Case & Shuttleworth",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Thomas Case",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Kingston",
+      "label": "PLACE"
+    },
+    {
+      "text": "West Indies",
+      "label": "PLACE"
+    },
+    {
+      "text": "1754-69",
+      "label": "DATE"
+    },
+    {
+      "text": "T.C. Barker and J.R. Harris",
+      "label": "PERSON"
+    },
+    {
+      "text": "A Merseyside Town in the Industrial Revolution",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Case & Shuttleworth",
+      "label": "GROUPINGS"
+    }
+  ]
+}

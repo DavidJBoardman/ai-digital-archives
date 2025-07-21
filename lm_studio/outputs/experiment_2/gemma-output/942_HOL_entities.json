@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "text": "John Holt",
+      "label": "PERSON"
+    },
+    {
+      "text": "1743-1801",
+      "label": "DATE"
+    },
+    {
+      "text": "Matthew Gregson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "1749-1824",
+      "label": "DATE"
+    },
+    {
+      "text": "Charles Okill",
+      "label": "PERSON"
+    },
+    {
+      "text": "1848",
+      "label": "DATE"
+    },
+    {
+      "text": "Corporation",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Library",
+      "label": "PLACE"
+    },
+    {
+      "text": "1937",
+      "label": "DATE"
+    },
+    {
+      "text": "Parliamentary Elections",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "1710-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "Commissioners of Watch and Lamps",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "1804",
+      "label": "DATE"
+    },
+    {
+      "text": "Henry Wostenholm",
+      "label": "PERSON"
+    },
+    {
+      "text": "1722",
+      "label": "DATE"
+    },
+    {
+      "text": "Samuel Huggins",
+      "label": "PERSON"
+    },
+    {
+      "text": "1874",
+      "label": "DATE"
+    },
+    {
+      "text": "942 HOL 32",
+      "label": "PLACE"
+    },
+    {
+      "text": "c.1921-24",
+      "label": "DATE"
+    },
+    {
+      "text": "Liverpool Record Office",
+      "label": "PLACE"
+    },
+    {
+      "text": "Walton",
+      "label": "PLACE"
+    },
+    {
+      "text": "13th cent.-19th cent.",
+      "label": "DATE"
+    },
+    {
+      "text": "Slave Trade",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "entities": [
+    {
+      "text": "920 PAR II",
+      "label": "DATE"
+    },
+    {
+      "text": "James Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles S. Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Margaret Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Patrick Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Anne Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Susan Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Charles Stewart Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Rainy",
+      "label": "PERSON"
+    },
+    {
+      "text": "Anne Rainy",
+      "label": "PERSON"
+    },
+    {
+      "text": "Gilbert Robertson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Eliza Sandbach",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sam. Sandbach",
+      "label": "PERSON"
+    },
+    {
+      "text": "Duncan Darrock",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Stewart Trail",
+      "label": "PERSON"
+    },
+    {
+      "text": "Edward Cardwell",
+      "label": "PERSON"
+    },
+    {
+      "text": "Ann[i]e Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "Angus Kennedy",
+      "label": "PERSON"
+    },
+    {
+      "text": "Margaret Rainy",
+      "label": "PERSON"
+    },
+    {
+      "text": "Evelyn [Stuart Parker]",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Stewart Traill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Christian",
+      "label": "PERSON"
+    },
+    {
+      "text": "Robert Yule Traill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lucia Traill",
+      "label": "PERSON"
+    },
+    {
+      "text": "Andrew Watson",
+      "label": "PERSON"
+    },
+    {
+      "text": "H.R. Watson",
+      "label": "PERSON"
+    },
+    {
+      "text": "Alfred T[rail] Parker",
+      "label": "PERSON"
+    },
+    {
+      "text": "J. Ernest Tinne",
+      "label": "PERSON"
+    },
+    {
+      "text": "J. Parker Smith",
+      "label": "PERSON"
+    },
+    {
+      "text": "Parker family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Trail family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Rainy family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Robertson family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Edinburgh",
+      "label": "PLACE"
+    },
+    {
+      "text": "Hebrides",
+      "label": "PLACE"
+    },
+    {
+      "text": "Fairlie House",
+      "label": "PLACE"
+    },
+    {
+      "text": "Ayrshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "Garston",
+      "label": "PLACE"
+    },
+    {
+      "text": "Aigburth",
+      "label": "PLACE"
+    },
+    {
+      "text": "Beechwood Cemetery",
+      "label": "PLACE"
+    },
+    {
+      "text": "Rasay (Inverness)",
+      "label": "PLACE"
+    },
+    {
+      "text": "America",
+      "label": "PLACE"
+    },
+    {
+      "text": "James Parker to his son, Patrick",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Charles S. Parker to his grandfather, James",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret Parker to her husband, Charles",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "George Rainy to his brother-in-law, Charles",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne Rainy (later Anne Brown) to her brother-in-law, Charles",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Gilbert Robertson to Charles",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Eliza Sandbach (nee Robertson) to Charles",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Charles S. Parker to his wife, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "George Rainy to his sister, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Harry Rainy to his sister, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "George Parker to his mother, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne Parker (nee Traill) to her mother-in-law, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Patrick Parker to his mother, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Ann[i]e Parker to her mother, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Edward Cardwell to his mother-in-law, Margaret",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne Robertson to her niece, Margaret Parker",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret Parker to her daughter, Susan",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Susan Darrock to Ann [?]",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margret Parker to her son, George",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne Parker to her husband, George",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Charles S. Parker to his brother, George",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Susan Parker to her brother, George",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Ann[i]e Parker (later Cardwell) to her brother, George",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Edward Cardwell to his brother-in-law, George",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "George Parker to his wife, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Thomas S. Traill to his daughter, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Robert Yule Traill to his sister, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Thomas Stewart Traill to his sister, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret Parker to her daughter-in-law, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Ann[i]e Cardwell to her sister-in-law, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Elizabeth Sandbach to her niece, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne Robertson to her niece, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret [?Darrock] to her aunt, Anne",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "J. Ernest Tinne to Aunt George [?Anne Parker]",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Charles S. Parker to his daughter, Annie",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret Parker to her daughter, Annie",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Charles S. Parker to his sister, Annie",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne (Mrs. C.S. Parker) to her sister-in-law, Annie",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "George Parker to his sister, Annie",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne (Mrs. George Parker) to her sister-in-law, Annie",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Patrick Parker to his sister, Annie",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Angus Kennedy to Annie Cardwell",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret Rainy to Annie Cardwell",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret Parker to her son-in-law, Edward Cardwell",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "George Parker to his brother-in-law, Edward Cardwell",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Patrick Parker to his brother-in-law, Edward Cardwell",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret Parker to her son, Patrick",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "James Parker to his brother, Patrick",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Mary (Mrs James Parker) to her brother-in-law, Patrick",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Susan Parker (later Darrock) to her brother, Patrick",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "George Parker to his brother, Patrick",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Ann[i]e Parker to her brother, Patrick",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Anne (Mrs. C.S. Parker) to her son, Charles S. Parker",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Alfred T[rail] Parker to his brother, Charles",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Margaret [?Parker] to her brothers Charles",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "J. Parker Smith to Evelyn [Stuart Parker]",
+      "label": "RELATIONSHIPS"
+    }
+  ]
+}

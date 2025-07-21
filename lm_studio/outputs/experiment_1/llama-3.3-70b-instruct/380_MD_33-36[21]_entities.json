@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "text": "Thomas Case",
+      "label": "PERSON"
+    },
+    {
+      "text": "T.C. Barker",
+      "label": "PERSON"
+    },
+    {
+      "text": "J.R. Harris",
+      "label": "PERSON"
+    },
+    {
+      "text": "William Bond",
+      "label": "PERSON"
+    },
+    {
+      "text": "Case & Shuttleworth",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Kingston, Jamaica",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "West India",
+      "label": "PLACE"
+    },
+    {
+      "text": "West Indies",
+      "label": "PLACE"
+    },
+    {
+      "text": "Merseyside",
+      "label": "PLACE"
+    },
+    {
+      "text": "1754",
+      "label": "DATE"
+    },
+    {
+      "text": "1757",
+      "label": "DATE"
+    },
+    {
+      "text": "1759",
+      "label": "DATE"
+    },
+    {
+      "text": "1761",
+      "label": "DATE"
+    },
+    {
+      "text": "1763",
+      "label": "DATE"
+    },
+    {
+      "text": "1764",
+      "label": "DATE"
+    },
+    {
+      "text": "1767",
+      "label": "DATE"
+    },
+    {
+      "text": "1769",
+      "label": "DATE"
+    },
+    {
+      "text": "1959",
+      "label": "DATE"
+    },
+    {
+      "text": "Case & Shuttleworth",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "A Merseyside Town in the Industrial Revolution",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "established under",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "managed by",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "member of",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "trades to",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "governed by",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "forbidden for",
+      "label": "RELATIONSHIPS"
+    }
+  ]
+}

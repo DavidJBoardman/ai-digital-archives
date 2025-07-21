@@ -1,0 +1,68 @@
+{
+  "entities": [
+    {
+      "text": "John Newton",
+      "label": "PERSON"
+    },
+    {
+      "text": "Dr David Jennings",
+      "label": "PERSON"
+    },
+    {
+      "text": "1750-1760",
+      "label": "DATE"
+    },
+    {
+      "text": "Duke of Argyle",
+      "label": "SHIP"
+    },
+    {
+      "text": "African",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "Joseph Manesty",
+      "label": "PERSON"
+    },
+    {
+      "text": "1754",
+      "label": "DATE"
+    },
+    {
+      "text": "Olney",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bucks",
+      "label": "PLACE"
+    },
+    {
+      "text": "1780",
+      "label": "DATE"
+    },
+    {
+      "text": "1807",
+      "label": "DATE"
+    },
+    {
+      "text": "Bernard Martin",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mark Spurrell",
+      "label": "PERSON"
+    },
+    {
+      "text": "Stepney",
+      "label": "PLACE"
+    },
+    {
+      "text": "Dr. William's library",
+      "label": "ORG"
+    }
+  ]
+}

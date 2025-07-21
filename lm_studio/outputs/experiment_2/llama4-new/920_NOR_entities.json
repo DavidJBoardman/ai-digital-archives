@@ -1,0 +1,72 @@
+{
+  "entities": [
+    {
+      "text": "Norris family",
+      "label": "GROUPINGS"
+    },
+    {
+      "text": "Speke",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool Record Office",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Corporation of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Winstanley",
+      "label": "PERSON"
+    },
+    {
+      "text": "Exchange, Manchester",
+      "label": "PLACE"
+    },
+    {
+      "text": "Town Clerk of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "T.N. Horton",
+      "label": "PERSON"
+    },
+    {
+      "text": "Transactions of the Historic Society of Lancashire and Cheshire, Vol. 49, 1897",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "British Museum",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Aston Hall, Runcorn, Cheshire",
+      "label": "PLACE"
+    },
+    {
+      "text": "University of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Rydal Hall, Grasmere, Westmorland",
+      "label": "PLACE"
+    },
+    {
+      "text": "J.H. Lumby",
+      "label": "PERSON"
+    },
+    {
+      "text": "Record Society of Lancashire and Cheshire Publications, Vol. 93, 1939",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Thomas Heywood",
+      "label": "PERSON"
+    },
+    {
+      "text": "Chetham Society, Vol. 9, 1846",
+      "label": "INDICATION_OF_SLAVERY"
+    }
+  ]
+}

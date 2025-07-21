@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "text": "1413-1970",
+      "label": "DATE"
+    },
+    {
+      "text": "1750-1820",
+      "label": "DATE"
+    },
+    {
+      "text": "African Company of Merchants",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "An Act for extending and improving trade to Africa, 1750",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "Great Britain",
+      "label": "PLACE"
+    },
+    {
+      "text": "Africa",
+      "label": "PLACE"
+    },
+    {
+      "text": "Sallee in South Barbary",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape of Good Hope",
+      "label": "PLACE"
+    },
+    {
+      "text": "Cape Blanco",
+      "label": "PLACE"
+    },
+    {
+      "text": "Liverpool",
+      "label": "PLACE"
+    },
+    {
+      "text": "London",
+      "label": "PLACE"
+    },
+    {
+      "text": "Bristol",
+      "label": "PLACE"
+    },
+    {
+      "text": "Chamberlain of the City of London",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Merchant's Hall, Bristol",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Town Clerk of Liverpool",
+      "label": "INDICATION_OF_SLAVERY"
+    },
+    {
+      "text": "Liverpool members of the African Company of Merchants",
+      "label": "GROUP"
+    },
+    {
+      "text": "Committee of nine persons",
+      "label": "GROUP"
+    },
+    {
+      "text": "trading from Liverpool",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "established under",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "terms of An Act for extending and improving trade to Africa, 1750",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "trades to and from Africa",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "member of the Company",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "governed by its regulations",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "forbidden for the Company to trade in its corporate capacity",
+      "label": "RELATIONSHIPS"
+    },
+    {
+      "text": "managed by an annually elected committee of nine persons",
+      "label": "RELATIONSHIPS"
+    }
+  ]
+}
